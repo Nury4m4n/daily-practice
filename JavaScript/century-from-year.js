@@ -8,4 +8,4 @@ Codewars Kata:
 
 const century = (year) => Math.ceil(year / 100);
 
-console.log(century(1759)); // Output: "20"
+console.log(century(1759));
